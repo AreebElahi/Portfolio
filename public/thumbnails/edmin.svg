@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect width="1600" height="1000" fill="#eae3d5"/>
+  <rect x="80" y="74" width="1440" height="872" rx="14" fill="#d6ccb9" opacity=".55"/>
+  <rect x="80" y="64" width="1440" height="872" rx="14" fill="#fffcf5" stroke="#ddd3c1"/>
+  <g fill="#cfc4b0"><circle cx="108" cy="84" r="6"/><circle cx="128" cy="84" r="6"/><circle cx="148" cy="84" r="6"/></g>
+  <path d="M80 103.5h1440" stroke="#ddd3c1"/>
+
+  <path d="M80 104h272v832H94a14 14 0 0 1-14-14z" fill="#f5f0e6"/>
+  <path d="M352.5 104v832" stroke="#ddd3c1"/>
+  <text x="112" y="154" font-size="24" font-weight="700" fill="#1b1915">Edmin</text>
+  <rect x="96" y="184" width="240" height="40" rx="8" fill="#e7e8f3"/>
+  <g font-size="17" fill="#585246">
+    <rect x="112" y="196" width="16" height="16" rx="4" fill="#2b3a8f"/>
+    <text x="140" y="210" fill="#2b3a8f" font-weight="600">Dashboard</text>
+    <rect x="112" y="248" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="262">Academics</text>
+    <rect x="112" y="300" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="314">Examinations</text>
+    <rect x="112" y="352" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="366">Attendance</text>
+    <rect x="112" y="404" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="418">HR &amp; Payroll</text>
+    <rect x="112" y="456" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="470">Finance</text>
+    <rect x="112" y="508" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="522">Communications</text>
+  </g>
+
+  <text x="384" y="168" font-size="30" font-weight="700" fill="#1b1915">Admin dashboard</text>
+  <g font-size="15" font-weight="600">
+    <rect x="1150" y="140" width="80" height="36" rx="8" fill="#2b3a8f"/><text x="1190" y="163" text-anchor="middle" fill="#fffcf5">Admin</text>
+    <rect x="1238" y="140" width="84" height="36" rx="8" fill="#ede5d6"/><text x="1280" y="163" text-anchor="middle" fill="#3d3830">Faculty</text>
+    <rect x="1330" y="140" width="60" height="36" rx="8" fill="#ede5d6"/><text x="1360" y="163" text-anchor="middle" fill="#3d3830">HR</text>
+    <rect x="1398" y="140" width="90" height="36" rx="8" fill="#ede5d6"/><text x="1443" y="163" text-anchor="middle" fill="#3d3830">Student</text>
+  </g>
+
+  <g font-size="15" fill="#585246">
+    <rect x="384" y="208" width="258" height="112" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+    <text x="404" y="244">Enrolment requests</text><rect x="404" y="264" width="96" height="28" rx="6" fill="#ede5d6"/>
+    <rect x="666" y="208" width="258" height="112" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+    <text x="686" y="244">Exam sessions</text><rect x="686" y="264" width="72" height="28" rx="6" fill="#ede5d6"/>
+    <rect x="948" y="208" width="258" height="112" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+    <text x="968" y="244">Leave requests</text><rect x="968" y="264" width="84" height="28" rx="6" fill="#ede5d6"/>
+    <rect x="1230" y="208" width="258" height="112" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+    <text x="1250" y="244">Open tickets</text><rect x="1250" y="264" width="64" height="28" rx="6" fill="#ede5d6"/>
+  </g>
+
+  <rect x="384" y="344" width="680" height="560" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="408" y="388" font-size="19" font-weight="600" fill="#1b1915">Timetable</text>
+  <g font-size="14" fill="#585246">
+    <text x="420" y="428">Mon</text><text x="548" y="428">Tue</text><text x="676" y="428">Wed</text><text x="804" y="428">Thu</text><text x="932" y="428">Fri</text>
+  </g>
+  <g fill="#f5f0e6">
+    <rect x="408" y="444" width="120" height="64" rx="8"/><rect x="536" y="444" width="120" height="64" rx="8"/><rect x="664" y="444" width="120" height="64" rx="8"/><rect x="792" y="444" width="120" height="64" rx="8"/><rect x="920" y="444" width="120" height="64" rx="8"/>
+    <rect x="408" y="516" width="120" height="64" rx="8"/><rect x="536" y="516" width="120" height="64" rx="8"/><rect x="664" y="516" width="120" height="64" rx="8"/><rect x="792" y="516" width="120" height="64" rx="8"/><rect x="920" y="516" width="120" height="64" rx="8"/>
+    <rect x="408" y="588" width="120" height="64" rx="8"/><rect x="536" y="588" width="120" height="64" rx="8"/><rect x="664" y="588" width="120" height="64" rx="8"/><rect x="792" y="588" width="120" height="64" rx="8"/><rect x="920" y="588" width="120" height="64" rx="8"/>
+    <rect x="408" y="660" width="120" height="64" rx="8"/><rect x="536" y="660" width="120" height="64" rx="8"/><rect x="664" y="660" width="120" height="64" rx="8"/><rect x="792" y="660" width="120" height="64" rx="8"/><rect x="920" y="660" width="120" height="64" rx="8"/>
+    <rect x="408" y="732" width="120" height="64" rx="8"/><rect x="536" y="732" width="120" height="64" rx="8"/><rect x="664" y="732" width="120" height="64" rx="8"/><rect x="792" y="732" width="120" height="64" rx="8"/><rect x="920" y="732" width="120" height="64" rx="8"/>
+    <rect x="408" y="804" width="120" height="64" rx="8"/><rect x="536" y="804" width="120" height="64" rx="8"/><rect x="664" y="804" width="120" height="64" rx="8"/><rect x="792" y="804" width="120" height="64" rx="8"/><rect x="920" y="804" width="120" height="64" rx="8"/>
+  </g>
+  <g>
+    <rect x="408" y="444" width="120" height="136" rx="8" fill="#e7e8f3"/><rect x="408" y="444" width="4" height="136" fill="#2b3a8f"/>
+    <rect x="664" y="444" width="120" height="64" rx="8" fill="#e7e8f3"/><rect x="664" y="444" width="4" height="64" fill="#2b3a8f"/>
+    <rect x="536" y="588" width="120" height="136" rx="8" fill="#ede5d6"/><rect x="536" y="588" width="4" height="136" fill="#8c8273"/>
+    <rect x="792" y="516" width="120" height="64" rx="8" fill="#e7e8f3"/><rect x="792" y="516" width="4" height="64" fill="#2b3a8f"/>
+    <rect x="920" y="660" width="120" height="136" rx="8" fill="#e7e8f3"/><rect x="920" y="660" width="4" height="136" fill="#2b3a8f"/>
+    <rect x="664" y="732" width="120" height="64" rx="8" fill="#ede5d6"/><rect x="664" y="732" width="4" height="64" fill="#8c8273"/>
+    <rect x="408" y="804" width="120" height="64" rx="8" fill="#ede5d6"/><rect x="408" y="804" width="4" height="64" fill="#8c8273"/>
+  </g>
+  <g fill="#1b1915" opacity=".55">
+    <rect x="424" y="462" width="70" height="8" rx="4"/><rect x="680" y="462" width="62" height="8" rx="4"/><rect x="552" y="606" width="76" height="8" rx="4"/>
+    <rect x="808" y="534" width="58" height="8" rx="4"/><rect x="936" y="678" width="72" height="8" rx="4"/><rect x="680" y="750" width="66" height="8" rx="4"/><rect x="424" y="822" width="60" height="8" rx="4"/>
+  </g>
+
+  <rect x="1088" y="344" width="400" height="560" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="1112" y="388" font-size="19" font-weight="600" fill="#1b1915">Announcements</text>
+  <g>
+    <circle cx="1120" cy="440" r="6" fill="#2b3a8f"/><rect x="1140" y="430" width="250" height="10" rx="5" fill="#cfc4b0"/><rect x="1140" y="450" width="180" height="8" rx="4" fill="#ede5d6"/>
+    <circle cx="1120" cy="520" r="6" fill="#2b3a8f"/><rect x="1140" y="510" width="220" height="10" rx="5" fill="#cfc4b0"/><rect x="1140" y="530" width="200" height="8" rx="4" fill="#ede5d6"/>
+    <circle cx="1120" cy="600" r="6" fill="#8c8273"/><rect x="1140" y="590" width="270" height="10" rx="5" fill="#cfc4b0"/><rect x="1140" y="610" width="150" height="8" rx="4" fill="#ede5d6"/>
+    <circle cx="1120" cy="680" r="6" fill="#8c8273"/><rect x="1140" y="670" width="200" height="10" rx="5" fill="#cfc4b0"/><rect x="1140" y="690" width="190" height="8" rx="4" fill="#ede5d6"/>
+    <circle cx="1120" cy="760" r="6" fill="#8c8273"/><rect x="1140" y="750" width="240" height="10" rx="5" fill="#cfc4b0"/><rect x="1140" y="770" width="160" height="8" rx="4" fill="#ede5d6"/>
+  </g>
+</svg>

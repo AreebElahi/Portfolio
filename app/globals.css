@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+/* Palette A · Paper & Indigo. Every text pair is AA; ratios are listed in README. */
+@theme {
+  --color-paper: #f5f0e6;
+  --color-surface: #fffcf5;
+  --color-line: #ddd3c1;
+  --color-line-strong: #8c8273;
+  --color-ink: #1b1915;
+  --color-muted: #585246;
+  --color-chip: #ede5d6;
+  --color-primary: #2b3a8f;
+  --color-primary-hover: #222d73;
+  --color-primary-soft: #e7e8f3;
+  --color-highlight: #d2451e;
+  --color-band: #1a1e3a;
+  --color-on-band: #f5f0e6;
+  --color-muted-band: #b5b5c8;
+  --color-primary-band: #aab4f2;
+  --color-error: #b42318;
+}
+
+@theme inline {
+  --font-display: var(--font-schibsted), "Helvetica Neue", Arial, sans-serif;
+  --font-sans: var(--font-source-sans), "Segoe UI", system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, Consolas, monospace;
+}
+
+@utility container-page {
+  max-width: 76rem;
+  margin-inline: auto;
+  padding-inline: 1.25rem;
+  @media (width >= 48rem) {
+    padding-inline: 2rem;
+  }
+  @media (width >= 64rem) {
+    padding-inline: 2.5rem;
+  }
+}
+
+@utility section-y {
+  padding-block: clamp(3.5rem, 7vw, 6rem);
+}
+
+@utility section-y-lg {
+  padding-block: clamp(4.5rem, 9vw, 7.5rem);
+}
+
+@utility label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  line-height: 1.4;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    background: var(--color-paper);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 3px;
+  }
+  .band :focus-visible {
+    outline-color: var(--color-primary-band);
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) and (scripting: enabled) {
+  [data-reveal] {
+    transition:
+      opacity 0.5s ease,
+      transform 0.5s ease;
+  }
+  [data-reveal]:not([data-visible]) {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+}

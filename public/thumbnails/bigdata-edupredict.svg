@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect width="1600" height="1000" fill="#eae3d5"/>
+  <rect x="80" y="74" width="1440" height="872" rx="14" fill="#d6ccb9" opacity=".55"/>
+  <rect x="80" y="64" width="1440" height="872" rx="14" fill="#fffcf5" stroke="#ddd3c1"/>
+  <g fill="#cfc4b0"><circle cx="108" cy="84" r="6"/><circle cx="128" cy="84" r="6"/><circle cx="148" cy="84" r="6"/></g>
+  <path d="M80 103.5h1440" stroke="#ddd3c1"/>
+
+  <path d="M80 104h272v832H94a14 14 0 0 1-14-14z" fill="#f5f0e6"/>
+  <path d="M352.5 104v832" stroke="#ddd3c1"/>
+  <text x="112" y="154" font-size="24" font-weight="700" fill="#1b1915">UMS</text>
+  <rect x="96" y="444" width="240" height="40" rx="8" fill="#e7e8f3"/>
+  <g font-size="17" fill="#585246">
+    <rect x="112" y="196" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="210">Dashboard</text>
+    <rect x="112" y="248" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="262">Courses</text>
+    <rect x="112" y="300" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="314">Students</text>
+    <rect x="112" y="352" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="366">Attendance</text>
+    <rect x="112" y="404" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="418">Marks</text>
+    <rect x="112" y="456" width="16" height="16" rx="4" fill="#2b3a8f"/><text x="140" y="470" fill="#2b3a8f" font-weight="600">Predictions</text>
+    <rect x="112" y="508" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="522">Settings</text>
+  </g>
+
+  <text x="384" y="168" font-size="30" font-weight="700" fill="#1b1915">Student dropout risk</text>
+  <text x="1488" y="163" font-size="16" fill="#585246" text-anchor="end">Instructor portal</text>
+
+  <rect x="384" y="208" width="640" height="640" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <g font-size="18" font-weight="600" fill="#1b1915">
+    <text x="412" y="260">Academic performance</text>
+    <text x="412" y="430">Financial status</text>
+    <text x="412" y="556">Demographics</text>
+  </g>
+  <g font-size="14" fill="#585246">
+    <text x="412" y="300">Average grade</text><text x="612" y="300">Approval rate</text><text x="812" y="300">Courses enrolled</text>
+    <text x="412" y="596">Age at enrolment</text><text x="612" y="596">GDP per capita</text><text x="812" y="596">Unemployment rate</text>
+  </g>
+  <g fill="#fffcf5" stroke="#cfc4b0">
+    <rect x="412" y="312" width="184" height="44" rx="8"/><rect x="612" y="312" width="184" height="44" rx="8"/><rect x="812" y="312" width="184" height="44" rx="8"/>
+    <rect x="412" y="608" width="184" height="44" rx="8"/><rect x="612" y="608" width="184" height="44" rx="8"/><rect x="812" y="608" width="184" height="44" rx="8"/>
+  </g>
+  <g>
+    <rect x="412" y="456" width="20" height="20" rx="4" fill="#2b3a8f"/>
+    <path d="m417 466 4 4 7-8" fill="none" stroke="#fffcf5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="612.5" y="456.5" width="19" height="19" rx="4" fill="#fffcf5" stroke="#8c8273"/>
+    <rect x="812" y="456" width="20" height="20" rx="4" fill="#2b3a8f"/>
+    <path d="m817 466 4 4 7-8" fill="none" stroke="#fffcf5" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g font-size="15" fill="#1b1915">
+    <text x="442" y="472">Tuition paid</text><text x="642" y="472">Has debt</text><text x="842" y="472">Scholarship</text>
+  </g>
+  <path d="M412 708.5h584" stroke="#ddd3c1"/>
+  <rect x="412" y="740" width="160" height="48" rx="8" fill="#2b3a8f"/>
+  <text x="492" y="770" font-size="16" font-weight="600" fill="#fffcf5" text-anchor="middle">Predict risk</text>
+
+  <rect x="1048" y="208" width="440" height="640" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="1076" y="260" font-size="18" font-weight="600" fill="#1b1915">Prediction</text>
+  <rect x="1076" y="280" width="190" height="36" rx="18" fill="#e7e8f3"/>
+  <text x="1171" y="304" font-size="15" font-weight="600" fill="#2b3a8f" text-anchor="middle">Likely to graduate</text>
+
+  <g font-size="14" fill="#585246">
+    <text x="1076" y="364">Probability</text>
+    <text x="1076" y="524">Key factors</text>
+    <text x="1076" y="692">Suggested actions</text>
+  </g>
+  <g font-size="15" fill="#1b1915">
+    <text x="1076" y="396">Graduate</text>
+    <text x="1076" y="448">Dropout</text>
+  </g>
+  <rect x="1076" y="406" width="384" height="12" rx="6" fill="#ede5d6"/><rect x="1076" y="406" width="280" height="12" rx="6" fill="#2b3a8f"/>
+  <rect x="1076" y="458" width="384" height="12" rx="6" fill="#ede5d6"/><rect x="1076" y="458" width="104" height="12" rx="6" fill="#d2451e"/>
+
+  <g>
+    <circle cx="1084" cy="556" r="6" fill="#2b3a8f"/><rect x="1100" y="551" width="240" height="10" rx="5" fill="#cfc4b0"/>
+    <circle cx="1084" cy="596" r="6" fill="#2b3a8f"/><rect x="1100" y="591" width="200" height="10" rx="5" fill="#cfc4b0"/>
+    <circle cx="1084" cy="636" r="6" fill="#d2451e"/><rect x="1100" y="631" width="220" height="10" rx="5" fill="#cfc4b0"/>
+  </g>
+  <g fill="none" stroke="#2b3a8f" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m1078 724 4 4 8-9"/><path d="m1078 764 4 4 8-9"/><path d="m1078 804 4 4 8-9"/>
+  </g>
+  <g fill="#cfc4b0">
+    <rect x="1100" y="719" width="260" height="10" rx="5"/><rect x="1100" y="759" width="210" height="10" rx="5"/><rect x="1100" y="799" width="236" height="10" rx="5"/>
+  </g>
+</svg>

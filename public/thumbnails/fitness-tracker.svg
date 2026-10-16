@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
+  <rect width="1600" height="1000" fill="#eae3d5"/>
+  <rect x="80" y="74" width="1440" height="872" rx="14" fill="#d6ccb9" opacity=".55"/>
+  <rect x="80" y="64" width="1440" height="872" rx="14" fill="#fffcf5" stroke="#ddd3c1"/>
+  <g fill="#cfc4b0"><circle cx="108" cy="84" r="6"/><circle cx="128" cy="84" r="6"/><circle cx="148" cy="84" r="6"/></g>
+  <path d="M80 103.5h1440" stroke="#ddd3c1"/>
+
+  <path d="M80 104h272v832H94a14 14 0 0 1-14-14z" fill="#f5f0e6"/>
+  <path d="M352.5 104v832" stroke="#ddd3c1"/>
+  <text x="112" y="154" font-size="24" font-weight="700" fill="#1b1915">FitnessTracker</text>
+  <rect x="96" y="184" width="240" height="40" rx="8" fill="#e7e8f3"/>
+  <g font-size="17" fill="#585246">
+    <rect x="112" y="196" width="16" height="16" rx="4" fill="#2b3a8f"/><text x="140" y="210" fill="#2b3a8f" font-weight="600">Dashboard</text>
+    <rect x="112" y="248" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="262">Workout plan</text>
+    <rect x="112" y="300" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="314">Nutrition plan</text>
+    <rect x="112" y="352" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="366">Profile</text>
+    <rect x="112" y="404" width="16" height="16" rx="4" fill="#cfc4b0"/><text x="140" y="418">Change password</text>
+  </g>
+
+  <text x="384" y="168" font-size="30" font-weight="700" fill="#1b1915">Dashboard</text>
+  <rect x="1146" y="140" width="200" height="36" rx="8" fill="#ede5d6"/>
+  <rect x="1150" y="144" width="64" height="28" rx="6" fill="#fffcf5"/>
+  <g font-size="15" text-anchor="middle">
+    <text x="1182" y="163" font-weight="600" fill="#1b1915">Week</text>
+    <text x="1248" y="163" fill="#585246">Month</text>
+    <text x="1314" y="163" fill="#585246">Year</text>
+  </g>
+  <rect x="1362.5" y="140.5" width="125" height="35" rx="8" fill="#fffcf5" stroke="#8c8273"/>
+  <text x="1425" y="163" font-size="15" font-weight="600" fill="#1b1915" text-anchor="middle">Export PDF</text>
+
+  <rect x="384" y="208" width="540" height="340" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="408" y="252" font-size="19" font-weight="600" fill="#1b1915">Calories burned</text>
+  <g stroke="#ede5d6" stroke-width="2"><path d="M408 328h492M408 388h492M408 448h492"/></g>
+  <path d="M408 508.5h492" stroke="#ddd3c1"/>
+  <g fill="#2b3a8f">
+    <rect x="420" y="388" width="36" height="120" rx="6"/><rect x="490" y="348" width="36" height="160" rx="6"/><rect x="560" y="418" width="36" height="90" rx="6"/>
+    <rect x="630" y="328" width="36" height="180" rx="6"/><rect x="700" y="368" width="36" height="140" rx="6"/><rect x="770" y="308" width="36" height="200" rx="6"/>
+    <rect x="840" y="398" width="36" height="110" rx="6"/>
+  </g>
+  <g font-size="13" fill="#585246" text-anchor="middle">
+    <text x="438" y="532">Mon</text><text x="508" y="532">Tue</text><text x="578" y="532">Wed</text><text x="648" y="532">Thu</text><text x="718" y="532">Fri</text><text x="788" y="532">Sat</text><text x="858" y="532">Sun</text>
+  </g>
+
+  <rect x="948" y="208" width="540" height="340" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="972" y="252" font-size="19" font-weight="600" fill="#1b1915">Calories eaten</text>
+  <g stroke="#ede5d6" stroke-width="2"><path d="M972 328h492M972 388h492M972 448h492"/></g>
+  <path d="M972 508.5h492" stroke="#ddd3c1"/>
+  <path d="M990 420 1066 380 1142 400 1218 340 1294 360 1370 300 1446 330V508H990z" fill="#e7e8f3"/>
+  <path d="M990 420 1066 380 1142 400 1218 340 1294 360 1370 300 1446 330" fill="none" stroke="#2b3a8f" stroke-width="3" stroke-linejoin="round"/>
+  <g fill="#fffcf5" stroke="#2b3a8f" stroke-width="3">
+    <circle cx="990" cy="420" r="5"/><circle cx="1066" cy="380" r="5"/><circle cx="1142" cy="400" r="5"/><circle cx="1218" cy="340" r="5"/><circle cx="1294" cy="360" r="5"/><circle cx="1370" cy="300" r="5"/><circle cx="1446" cy="330" r="5"/>
+  </g>
+  <g font-size="13" fill="#585246" text-anchor="middle">
+    <text x="990" y="532">Mon</text><text x="1066" y="532">Tue</text><text x="1142" y="532">Wed</text><text x="1218" y="532">Thu</text><text x="1294" y="532">Fri</text><text x="1370" y="532">Sat</text><text x="1446" y="532">Sun</text>
+  </g>
+
+  <rect x="384" y="572" width="1104" height="332" rx="12" fill="#fffcf5" stroke="#ddd3c1"/>
+  <text x="408" y="616" font-size="19" font-weight="600" fill="#1b1915">Workouts this week</text>
+  <g font-size="14" font-weight="600" fill="#585246">
+    <text x="408" y="656">Day</text><text x="548" y="656">Exercise</text><text x="868" y="656">Sets</text><text x="988" y="656">Reps</text><text x="1108" y="656">Duration</text><text x="1248" y="656">Weight</text>
+  </g>
+  <g stroke="#ddd3c1"><path d="M408 672.5h1056M408 720.5h1056M408 768.5h1056M408 816.5h1056"/></g>
+  <g fill="#cfc4b0">
+    <rect x="408" y="691" width="60" height="10" rx="5"/><rect x="548" y="691" width="180" height="10" rx="5"/><rect x="868" y="691" width="28" height="10" rx="5"/><rect x="988" y="691" width="32" height="10" rx="5"/><rect x="1108" y="691" width="56" height="10" rx="5"/><rect x="1248" y="691" width="48" height="10" rx="5"/>
+    <rect x="408" y="739" width="72" height="10" rx="5"/><rect x="548" y="739" width="150" height="10" rx="5"/><rect x="868" y="739" width="28" height="10" rx="5"/><rect x="988" y="739" width="32" height="10" rx="5"/><rect x="1108" y="739" width="56" height="10" rx="5"/><rect x="1248" y="739" width="48" height="10" rx="5"/>
+    <rect x="408" y="787" width="66" height="10" rx="5"/><rect x="548" y="787" width="200" height="10" rx="5"/><rect x="868" y="787" width="28" height="10" rx="5"/><rect x="988" y="787" width="32" height="10" rx="5"/><rect x="1108" y="787" width="56" height="10" rx="5"/><rect x="1248" y="787" width="48" height="10" rx="5"/>
+    <rect x="408" y="835" width="58" height="10" rx="5"/><rect x="548" y="835" width="164" height="10" rx="5"/><rect x="868" y="835" width="28" height="10" rx="5"/><rect x="988" y="835" width="32" height="10" rx="5"/><rect x="1108" y="835" width="56" height="10" rx="5"/><rect x="1248" y="835" width="48" height="10" rx="5"/>
+  </g>
+</svg>
